@@ -4,7 +4,7 @@ Si usan vscode recuerden instalar la extensión [Jupyter](https://marketplace.vi
 Instalar las librerías (como pandas) con el comando
 
 ```powershell
-PS C:\> pip install <modulo>
+PS C:\> pip install nombre_modulo
 ```
 ## Ramas en git
 
